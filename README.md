@@ -10,6 +10,7 @@ A menu-driven OSINT and recon toolkit in one Bash script. Wraps `curl`, `dig`, `
 dMP   dMP dMP dMP dMP dMP dMP  VMMMP"  VMMMP" dMP dMP dMP dMP                  ',(o)(o)(o)(o),'                             
 
 ```
+<img width="576" height="284" alt="image" src="https://github.com/user-attachments/assets/3c07df23-a954-41a7-a871-c487b9b6938d" />
 
 ---
 
